@@ -50,6 +50,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    let nombre = "Anita"
    nombre
    ```
+<img width="820" height="528" alt="image" src="https://github.com/user-attachments/assets/7f6ade9c-06ef-44df-8d80-adc45bd788ad" />
 
 ## Parte 3: Tu primer archivo HTML + JavaScript
 
@@ -72,8 +73,12 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    </body>
    </html>
    ```
+   
 4. Desde VSCode abre el archivo `hola.html` en tu navegador.
 5. Observa el resultado en la consola del navegador.
+
+   <img width="1030" height="441" alt="image" src="https://github.com/user-attachments/assets/e2d3ea70-a7ef-48b1-bbb7-5a8159d08ace" />
+
 
 ## Parte 4: Experimenta
 
@@ -123,22 +128,56 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    });
    ```
 6. Desde VSCode abre `formulario.html` en tu navegador y prueba el formulario.
+<img width="1233" height="605" alt="image" src="https://github.com/user-attachments/assets/690cf0e0-793d-4cee-9548-7c4f7fc85090" />
 
    
 ## Parte 6: Preguntas de reflexión
 
 1. ¿Qué hace `console.log`?
-2. ¿Qué ocurre si cambias el valor de la variable desde la consola? ¿Se puede?
-3. ¿Para qué sirve la consola del navegador en este contexto?
-4. Para qué sirve el archivo HTML en este contexto?
-5. ¿Por qué es una buena práctica separar el código JavaScript del HTML?
-6. Por qué se llama Vanilla JavaScript?
-7. Cuándo se usa JavaScript puro y cuándo se usan frameworks o librerías como REACT?
-8. Cómo se define una función en JS
-9. Sobre el código demuestra la diferencia entre let y const
-10. Indica en el código:
+
+   muestra mensajes o datos por la consola del navegador
+3. ¿Qué ocurre si cambias el valor de la variable desde la consola? ¿Se puede?
+
+   si, pero no siempre tiene efecto ya que dependera de como se halla definido la variable ya que si es con el const no ya que no permite reasignar su valor
+
+5. ¿Para qué sirve la consola del navegador en este contexto?
+
+Para hacer pruebas sobre el comportamiento del navegador web   y comprobar el estado del navegador
+   
+7. Para qué sirve el archivo HTML en este contexto?
+
+es el  encargado de cargar y ejecutar el codigo javascript
+   
+9. ¿Por qué es una buena práctica separar el código JavaScript del HTML?
+
+    Porque el codigo html en el contenido y la estructura mientras que el javascript se encarga de la interaccion y de como se comporta la web
+
+11. Por qué se llama Vanilla JavaScript?
+
+Porque es como viene de fabrica sin utilizar ninguna libreria 
+    
+13. Cuándo se usa JavaScript puro y cuándo se usan frameworks o librerías como REACT?
+
+javascript puro se usa cuando es un proyecto pequeño o simple 
+mientras que los frameworks se usa donde el usuario interactua constantemente y los datos cambian en tiempo real 
+
+15. Cómo se define una función en JS
+
+    con let , const etz
+    
+17. Sobre el código demuestra la diferencia entre let y const
+
+    <img width="1233" height="605" alt="image" src="https://github.com/user-attachments/assets/a4ee2aa0-409f-4e62-88a0-7c31d31aef3e" />
+
+
+19. Indica en el código:
    1. Si puede evitarse el uso de let. Qué hace
-   2. Cuántos eventos hay en el código, cuáles son y para qué sirven
+definir una variable pero no es necesario ya que es modificable 
+      <img width="760" height="562" alt="image" src="https://github.com/user-attachments/assets/c2bd3f7b-5c64-453b-abd7-b4b3e67f59ab" />
+
+   3. Cuántos eventos hay en el código, cuáles son y para qué sirven
+
+Ninguno ya que todo se ejecuta de manera automatica y de arriba a abajo 
 
 
 
