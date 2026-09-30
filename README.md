@@ -79,6 +79,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 
    <img width="1030" height="441" alt="image" src="https://github.com/user-attachments/assets/e2d3ea70-a7ef-48b1-bbb7-5a8159d08ace" />
 
+[https://felix-valle.github.io/optativa-lourdes/hola.html](https://felix-valle.github.io/optativa-lourdes/hola.html)
 
 ## Parte 4: Experimenta
 
@@ -130,7 +131,9 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 6. Desde VSCode abre `formulario.html` en tu navegador y prueba el formulario.
 <img width="1233" height="605" alt="image" src="https://github.com/user-attachments/assets/690cf0e0-793d-4cee-9548-7c4f7fc85090" />
 
-   
+   [https://felix-valle.github.io/optativa-lourdes/formulario.html](https://felix-valle.github.io/optativa-lourdes/formulario.html)
+
+   [https://felix-valle.github.io/optativa-lourdes/formulario.js](https://felix-valle.github.io/optativa-lourdes/formulario.js)
 ## Parte 6: Preguntas de reflexión
 
 1. ¿Qué hace `console.log`?
@@ -181,7 +184,7 @@ definir una variable pero no es necesario ya que es modificable
 
    3. Cuántos eventos hay en el código, cuáles son y para qué sirven
 
-Ninguno ya que todo se ejecuta de manera automatica y de arriba a abajo 
+dos 
 
 
 
