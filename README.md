@@ -163,7 +163,11 @@ mientras que los frameworks se usa donde el usuario interactua constantemente y 
 
 15. Cómo se define una función en JS
 
-    con let , const etz
+ function saludar() {console.log("Hola soy felix");]
+ saludar()
+
+ y con arrow function 
+ ()=>console.log(11)
     
 17. Sobre el código demuestra la diferencia entre let y const
 
