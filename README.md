@@ -184,7 +184,7 @@ definir una variable pero no es necesario ya que es modificable
 
    3. Cuántos eventos hay en el código, cuáles son y para qué sirven
 
-dos 
+dos uno el documento y otro el subbmit
 
 
 
